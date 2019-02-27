@@ -1,0 +1,31 @@
+# Title: Mobile blocklist for ads / tracking
+# Version: 20171125
+# Last Modified: 25. Nov 2017
+# Licence: Public Domain
+# Homepage: https://www.kuketz-blog.de
+# URL: https://media.kuketz.de/lists/mobile_list.txt
+
+0.0.0.0 crashlytics.com
+0.0.0.0 matchinguu.com
+0.0.0.0 app-measurement.com
+0.0.0.0 mparticle.com
+0.0.0.0 apptimize.com
+0.0.0.0 pushwoosh.com
+0.0.0.0 hockeyapp.net
+0.0.0.0 liftoff.io
+0.0.0.0 wywy.com
+0.0.0.0 aatkit.com
+0.0.0.0 tracking.i2w.io
+0.0.0.0 clicktale.net
+0.0.0.0 decibelinsight.net
+0.0.0.0 fullstory.com
+0.0.0.0 hotjar.com
+0.0.0.0 inspectlet.com
+0.0.0.0 mouseflow.com
+0.0.0.0 quantummetric.com
+0.0.0.0 sessioncam.com
+0.0.0.0 smartlook.com
+0.0.0.0 userreplay.net
+0.0.0.0 yandex.ru
+0.0.0.0 logrocket.com 
+0.0.0.0 salemove.com
