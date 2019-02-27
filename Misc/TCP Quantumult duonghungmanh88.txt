@@ -71,3 +71,13 @@ HOST-KEYWORD,gstaticadssl.l.google.com,REJECT
 HOST-KEYWORD,doubleclick.net,REJECT
 HOST-KEYWORD,4hag.adj.st,REJECT
 FINAL,DIRECT
+
+[GLOBAL]
+
+[HOST]
+
+[STATE]
+STATE,AUTO
+
+[MITM]
+hostname = graph.nhaccuatui.com, www.youtube.com, youtubei.googleapis.com, *.googlevideo.com, s.youtube.com
