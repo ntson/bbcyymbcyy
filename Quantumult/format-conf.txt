@@ -1,0 +1,34 @@
+[SERVER]
+bbcyymbcyy = socks5, upstream-proxy-address=127.0.0.1, upstream-proxy-port=80, upstream-proxy-auth=false, over-tls=false, certificate=1
+
+[SOURCE]
+
+[BACKUP-SERVER]
+
+[SUSPEND-SSID]
+
+[POLICY]
+
+[DNS]
+// danh sách DNS muốn dùng
+
+[REWRITE]
+
+[URL-REJECTION]
+// chặc các đường link theo định dạng regex
+
+[MITM]
+// Phân tích kết nối qua HTTPS, format: hostname = *.google.com, www.abc.com
+
+[TCP]
+// lọc theo từ khóa đề reject, format: HOST-KEYWORD,adclick,REJECT
+// kết thúc bằng: FINAL,DIRECT
+
+[GLOBAL]
+// để đúng theo format: SELECTED,bbcyymbcyy [tên thay đổi ở đây trùng với tên ở phần SERVER
+
+[STATE]
+STATE,AUTO
+
+[HOST]
+// phần viết tên miền cần chặn format: abc.com = 0.0.0.0
