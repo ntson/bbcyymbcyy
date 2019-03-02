@@ -1,0 +1,9 @@
+s0.2mdn.net = 0.0.0.0
+static.criteo.net = 0.0.0.0
+adservice.google.com = 0.0.0.0
+thongke.24h.com.vn = 0.0.0.0
+imasdk.googleapis.com = 0.0.0.0
+stats.wp.com = 0.0.0.0
+s.eclick.vn
+googletagmanager.com
+amcdn.vn
